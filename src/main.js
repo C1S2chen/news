@@ -3,7 +3,7 @@ import App from './App.vue'
 // 引入element ui核心文件
 import ElementUI from 'element-ui';
 // 使用element主题插件
-import 'element-ui/lib/theme-chalk/index.css';
+// import 'element-ui/lib/theme-chalk/index.css';
 // 导入路由实例
 // 使用绝对路径比较稳妥，vue-sli提供的符号@ 是src的当前的绝对路径
 // index.js可以省略
